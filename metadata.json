@@ -1,0 +1,5 @@
+{
+  "name": "Create NPM Boiler CLI",
+  "description": "A CLI tool to scaffold React libraries with a dual-build strategy (ESM/CJS + Standalone UMD).",
+  "requestFramePermissions": []
+}
